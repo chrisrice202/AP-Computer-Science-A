@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentInfoCard
+comment0.text=\r\n\ This\ is\ a\ program\ that\ will\ show\ my\ student\ information\ in\ a\ nicely\ formatted\ "card"\ \r\n\r\n\ @author\ (Chris\ Rice)\r\n\ @version\ (September\ 18th,\ 2018)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

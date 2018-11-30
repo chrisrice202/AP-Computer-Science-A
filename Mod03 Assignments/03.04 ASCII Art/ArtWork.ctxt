@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ArtWork
+comment0.text=\r\n\ Write\ a\ description\:\ Transforming\ my\ artwork\ into\ Java\ code.\r\n\r\n\ @author\ (Chris\ Rice)\r\n\ @version\ (10/27/2018)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
